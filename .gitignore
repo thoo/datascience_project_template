@@ -4,7 +4,7 @@
 *.pkl
 *.pickle
 *.rar
-*.tar 
+*.tar
 *.feather
 *.zip
 *.CSV
@@ -42,8 +42,6 @@ wheels/
 *.jpg
 *.jpeg
 *.png
-**/figures
-**/figure
 # Documents
 *.xls
 *.xlsx
