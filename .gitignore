@@ -1,0 +1,52 @@
+# ---> 1_ignore_thein
+## data file
+*.csv
+*.pkl
+*.pickle
+*.rar
+*.tar 
+*.feather
+*.zip
+*.CSV
+*.hdf
+*.hdf5
+*.gzip
+## jupyter notebook
+**/.ipynb_checkpoints
+## Python
+# Pytest
+**/.pytest_cache
+# PyCharm ide
+**/__pycache__
+# Python Distribution / Packaging
+#https://github.com/equinor/data-science-template/blob/master/.gitignore
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+# Figures
+*.pdf
+*.jpg
+*.jpeg
+*.png
+**/figures
+**/figure
+# Documents
+*.xls
+*.xlsx
+*.xlm
+*.doc
+*.docx
